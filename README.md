@@ -4,9 +4,9 @@ untuk keberkahan-Nya, maka saya tidak melakukan kecurangan seperti yang telah di
 <br>
 <br>
 ## Desain Program
-![ERD TP4](https://user-images.githubusercontent.com/80692514/156943655-64495a60-5620-4285-a5be-f75596c51ccf.png)
+![ERD TP4](https://user-images.githubusercontent.com/80692514/156944009-99de3648-ac5f-4834-b9ee-88602c115d6a.png)
 <br>
-Jadi saya membuat kelas Job sebagai parent class untuk driver class. Lalu ada person class sebagai composition class karena memiliki "has a" relationship. Kemudian, saya membuat hirarki inheritance yang dimana vehicle sebagai parent classnya yang diikuti airplane dan ship class sebagai childnya.
+Jadi saya membuat kelas Job sebagai parent class untuk Driver class. Lalu ada Person class sebagai composition class karena memiliki "has a" relationship. Kemudian, saya membuat hirarki inheritance yang dimana Vehicle sebagai parent classnya yang diikuti Airplane dan Ship class sebagai childnya.
 <br>
 ### Person Class
 ![person](https://user-images.githubusercontent.com/80692514/156943754-8d8634f3-b9e0-4954-8164-e797b46cd600.jpg)
